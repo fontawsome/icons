@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
             var minutes = Math.floor(secondsLeft / 60);
             var seconds = secondsLeft % 60;
             var formattedSeconds = seconds < 10 ? "0" + seconds : seconds;
-            console.log(minutes + ":" + formattedSeconds);
+        
             
             if (--secondsLeft < 0) {
                 clearInterval(interval);
