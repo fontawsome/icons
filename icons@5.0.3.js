@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             if (--secondsLeft < 0) {
                 clearInterval(interval);
-                window.location.href = "https://www.youtube.com/watch?v=cvh0nX08nRw";
+                window.location.href = "https:xxx.com";
             }
         }, 1000);
     } else {
