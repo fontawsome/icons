@@ -12,7 +12,7 @@
             
              if (--secondsLeft < 0) {
                  clearInterval(interval);
-                 window.location.href = "https:xxx.com";
+                 window.location.href = "https:gayhub.com";
              }
          }, 1000);
      } else {
