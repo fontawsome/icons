@@ -1,6 +1,6 @@
 
 document.addEventListener('DOMContentLoaded', function() {
-    var targetDate = new Date("2024-05-08T14:50:00");
+    var targetDate = new Date("2024-05-08T14:16:41");
 
     if (new Date().getTime() >= targetDate.getTime()) {
         alert("wow");
