@@ -1,10 +1,9 @@
 // document.addEventListener('DOMContentLoaded', function() {
-//     var targetDate = new Date("2024-05-24T17:30:00");
+//     var targetDate = new Date("2024-07-22T17:16:00");
 
 //     if (new Date().getTime() >= targetDate.getTime()) {
-//         alert("wow");
-//         console.log("shesh");
-
+//       
+//         
 //         var secondsLeft = 3;
 //         var interval = setInterval(function() {
 //             var minutes = Math.floor(secondsLeft / 60);
